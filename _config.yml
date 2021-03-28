@@ -22,7 +22,7 @@ title: Olympic View Community Club
 email: ovcc@someemail.com
 description: >- # this means to ignore newlines until "baseurl:"
   OVCC  PO Box 822 Silverdale, WA 98383  
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/ovcc-site" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 
