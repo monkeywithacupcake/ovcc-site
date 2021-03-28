@@ -4,32 +4,16 @@ title: Membership
 permalink: /membership/
 ---
 
-** could probably put a real form or PDF here? **
+Want to become a member or renew your membership in Olympic View Community Club?
 
+Annual Dues:
+$10 Individuals
+$25 Families 
 
-Print and submit
+[Membership Form]({{site.baseurl}}/assets/downloads/OVCC_membership_form.pdf)
 
-I wish to support the Olympic View Community Club.
+Please contact Joy Corbett (360-692-4462) to pay your dues or send them to: 
+OVCC  
+PO Box 822
+Silverdale, WA 98383
 
-Mail to OVCC  PO Box  822 Silverdale, WA 98383
-
-I wish to be a member. Here are my dues.
-_______  $25 Family  ________$10 Individual
-
-_____ I feel the community club is an asset to the community and would like to donate for maintenance and operations.
-
-            $ _________________
-
-
-TOTAL ENCLOSED $ __________________
-
-Name ___________________________________________
-
-Address _________________________________________
-
-_________________________________________________
-
-Email ___________________________________________
-
-Phone ___________________________________________
- 

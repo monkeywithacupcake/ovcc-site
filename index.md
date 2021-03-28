@@ -3,32 +3,22 @@ layout: home
 ---
 
 
-## Members are great
-maybe a welcome message -- next activity - whatever is to be announced?
+{{ site.announcement }}
 
-## Stuff for Members
+### Current [Activity]({{site.baseurl}}{% link activities.md %})
 
-### Activities
+### Harvest Festival
+Mark your calendars: Harvest Festival is 2021-10-03 from 4-7PM
 
-Fun activities for the children - check out the current [activity]({% link activities.md %})
+### Not a member yet? 
 
-### Neighborhood Watch
+Benefits:
+ - Seasonal activities
+ - Member social connection
+ - Clubhouse use
 
-[Neighborhood Watch]({% link neighborhoodwatch.md %})
+[Membership]({% link membership.md %})
 
-# Membership
-
-
-Dues:
-$10 Individuals
-$25 Families 
-
-[Membership Form]({% link membership.md %})
-
-Please contact Joy Corbett (360-692-4462) to pay your dues or send them to: 
-OVCC  
-PO Box 822
-Silverdale, WA 98383
 
 ## Officers
 
